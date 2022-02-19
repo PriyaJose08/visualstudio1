@@ -1,0 +1,15 @@
+C:\Users\PRJOSE\OneDrive - Capgemini\Desktop\C#QN\bin\Debug\net6.0\C#QN.exe
+C:\Users\PRJOSE\OneDrive - Capgemini\Desktop\C#QN\bin\Debug\net6.0\C#QN.deps.json
+C:\Users\PRJOSE\OneDrive - Capgemini\Desktop\C#QN\bin\Debug\net6.0\C#QN.runtimeconfig.json
+C:\Users\PRJOSE\OneDrive - Capgemini\Desktop\C#QN\bin\Debug\net6.0\C#QN.dll
+C:\Users\PRJOSE\OneDrive - Capgemini\Desktop\C#QN\bin\Debug\net6.0\ref\C#QN.dll
+C:\Users\PRJOSE\OneDrive - Capgemini\Desktop\C#QN\bin\Debug\net6.0\C#QN.pdb
+C:\Users\PRJOSE\OneDrive - Capgemini\Desktop\C#QN\obj\Debug\net6.0\C#QN.csproj.AssemblyReference.cache
+C:\Users\PRJOSE\OneDrive - Capgemini\Desktop\C#QN\obj\Debug\net6.0\C#QN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRJOSE\OneDrive - Capgemini\Desktop\C#QN\obj\Debug\net6.0\C#QN.AssemblyInfoInputs.cache
+C:\Users\PRJOSE\OneDrive - Capgemini\Desktop\C#QN\obj\Debug\net6.0\C#QN.AssemblyInfo.cs
+C:\Users\PRJOSE\OneDrive - Capgemini\Desktop\C#QN\obj\Debug\net6.0\C#QN.csproj.CoreCompileInputs.cache
+C:\Users\PRJOSE\OneDrive - Capgemini\Desktop\C#QN\obj\Debug\net6.0\C#QN.dll
+C:\Users\PRJOSE\OneDrive - Capgemini\Desktop\C#QN\obj\Debug\net6.0\ref\C#QN.dll
+C:\Users\PRJOSE\OneDrive - Capgemini\Desktop\C#QN\obj\Debug\net6.0\C#QN.pdb
+C:\Users\PRJOSE\OneDrive - Capgemini\Desktop\C#QN\obj\Debug\net6.0\C#QN.genruntimeconfig.cache
